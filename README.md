@@ -15,3 +15,5 @@ query something
 **Bold :star: :arrow_up:**
 
 [dotwithlink]: https://github.com/angular/angular/blob/master/README.md
+
+![App UI](/intro.gif)
